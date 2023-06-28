@@ -1,5 +1,5 @@
 .banner {
-    background: var(--azul-degrade);
+    background-color: var(--azul-degrade);
     color: var(--branco);
     text-align: center;
     padding: 2.5em 2em;
@@ -30,6 +30,6 @@
     font-weight: 400;
     text-align: center;
     color: var(--branco);
-    background: url("../img/lupa.svg") no-repeat;
+    background: url("../img/Vector.svg") no-repeat;
     background-position: 1em;
 }
