@@ -12,6 +12,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: relative;
 }
 
 .container{
@@ -63,4 +64,8 @@
     background-clip: text;
     text-transform: uppercase;
     text-decoration: none;
+}
+
+.container__botao {
+    display: none;
 }
