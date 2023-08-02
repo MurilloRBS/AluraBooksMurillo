@@ -143,3 +143,30 @@
     }
     
     }
+
+    /*tablet*/
+@media screen and (min-width: 1728px) {
+    .container__link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: yellow;
+    }
+    
+    .cabeçalho {
+    padding: 0 2em;
+    }
+    
+    .opções {
+    margin-right: auto;
+    }
+    
+    .container__texto {
+    display: block;
+    color: black;
+    }
+    
+    .container__titulo{
+    display: flex;
+    }
+    }
