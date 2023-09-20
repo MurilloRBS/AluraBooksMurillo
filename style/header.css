@@ -169,4 +169,8 @@
     .container__titulo{
     display: flex;
     }
+
+    .container-transparente {
+        display: none;
+    }
     }
