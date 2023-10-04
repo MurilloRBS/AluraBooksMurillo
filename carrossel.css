@@ -67,6 +67,12 @@
     text-decoration: none;
 }
 
+.card__descricao {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5em;
+}
+
 @media screen and (min-width: 1024px) {
     .carrossel__titulo {
         font-size: 26px;
@@ -92,9 +98,6 @@
     }
 }
 
-
-
-/*RESPONSIVIDADE CARROSSEL - TELAS GRANDES*/
 @media screen and (min-width: 1728px) {
     .carrossel__container {
         display: flex;
